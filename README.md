@@ -63,9 +63,9 @@ The services used include various ESRI javascript functions, tilesets and Storym
 These javascript functions are mainly the data flowing in and out via requests; as the user scrolls down the page, more
 requests will be made and more data will flow in. The data comes from ArcGIS, which includes basemaps, widgets and tilesets.
 
-In the source code, there are many <div> tags (see Figure 2). An important tag is the ID “storymaps-root” which contains the
+In the source code, there are many div tags (see Figure 2). An important tag is the ID “storymaps-root” which contains the
 entire body of the Storymap. Removing this would cause the Storymap to disappear. The ID “next” contains the ID “storymaps-root”,
-yet I am not sure what it is used for. I would assume that there are different CSS stylizations. Many <div> tags were created
+yet I am not sure what it is used for. I would assume that there are different CSS stylizations. Many div tags were created
 below the ID “storymaps-root”, which seem to be various tilesets of the maps.
 
 ![Figure 1: Example of CSS Margin Formatting](img/css.png)

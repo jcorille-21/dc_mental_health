@@ -216,6 +216,6 @@ health seriously and what steps to take in taking care of their loved ones.
 
 ## Works Cited
 
-Shapiro, J. (2017). 3 Ways Data Dashboards Can Mislead You. Retrieved from https://hbr.org/2017/01/3-ways-data-dashboards-can-mislead-you
+Shapiro, J. (2017). *3 Ways Data Dashboards Can Mislead You*. Retrieved from https://hbr.org/2017/01/3-ways-data-dashboards-can-mislead-you
 
-Mattern, S. (2017). A City Is Not a Computer. Retrieved from https://placesjournal.org/article/a-city-is-not-a-computer/?cn-reloaded=1#0 
+Mattern, S. (2017). *A City Is Not a Computer*. Retrieved from https://placesjournal.org/article/a-city-is-not-a-computer/?cn-reloaded=1#0 

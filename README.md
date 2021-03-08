@@ -69,9 +69,11 @@ yet I am not sure what it is used for. I would assume that there are different C
 below the ID “storymaps-root”, which seem to be various tilesets of the maps.
 
 ![Figure 1: Example of CSS Margin Formatting](img/css.png)
+
 *Figure 1: Example of CSS Margin Formatting*
 
 ![Figure 2: Source Code](img/source.png)
+
 *Figure 2: Source Code*
 
 ## User Interface and Web Mapping Design
@@ -84,6 +86,7 @@ well in my second monitor. The responsive design could be improved by fitting th
 be difficult due to the limitations of CSS.
 
 ![Figure 3: Sample of Elements, Responsive Design](img/monitor.png)
+
 *Figure 3: Sample of Elements, Responsive Design*
 
 Despite the project showing many maps, there are only **three embedded web maps**. I thought this was a weird design, because I
@@ -97,6 +100,7 @@ include zoom, full screen and a return to home button. There are a total of six 
 ### Life Expectancy by Neighborhood
 
 ![Figure 4: Life Expectancy by Neighborhood, Washington DC](img/life_expectancy.png)
+
 *Figure 4: Life Expectancy by Neighborhood, Washington DC*
 
 Figure 4 shows the **life expectancy by neighborhood**. Just looking at this image may induce confusion, as there is not a legend to
@@ -109,6 +113,7 @@ issues with the map:
 ### Percentage of Adults with Poor Mental Health by Neighborhood
 
 ![Figure 5: Poor Mental Health in Neighborhoods, Washington DC](img/poor_mental_health.png)
+
 *Figure 5: Poor Mental Health in Neighborhoods, Washington DC*
 
 Figure 5 is very similar to Figure 4, except that Figure 5 is an **embedded web map**. There are interactive features added in.
@@ -120,6 +125,7 @@ helpful in distinguishing values.
 ### Opioid Overdose Deaths in Washington DC
 
 ![Figure 6: Opioid Overdose deaths in Washington DC, 2014 - 2019](img/opioid.png)
+
 *Figure 6: Opioid Overdose deaths in Washington DC, 2014 - 2019*
 
 This visualization is the **only graph** in the project. This graph shows the opioid overdose deaths in Washington DC during the
@@ -133,6 +139,7 @@ deaths that go unreported? This could be applied to any data in general; data is
 ### Medicaid Beneficiaries in Washington DC
 
 ![Figure 7: Medicaid Beneficiaries in Washington DC](img/medicaid.png)
+
 *Figure 7: Medicaid Beneficiaries in Washington DC*
 
 Figure 7 showed **Medicaid beneficiaries in Washington DC**. I felt like this visualization was very ambiguous despite being a clear web map.
@@ -144,6 +151,7 @@ interesting because I would expect to see the opposite, which would be higher li
 ### School-Based Mental Health Services
 
 ![Figure 8: School-Based Mental Health Services](img/schools.png)
+
 *Figure 8: School-Based Mental Health Services*
 
 Figure 8 is an embedded web map that shows **school-based mental health services**. This is the only web map that is in the background against the text.
@@ -152,7 +160,8 @@ such as a home button, zoom levels and full screen mode. The red dots are unclea
 
 ### Income Extremes By Household in Washington, DC
 
-![Figure 9: Income Extremes By Household in Washington, DC](img/income extremes.png)
+![Figure 9: Income Extremes By Household in Washington, DC](img/income_extremes.png)
+
 *Figure 9: Income Extremes By Household in Washington, DC*
 
 Figure 9 is another embedded web map showing **income extremes by household in Washington DC**. This web map felt more clear than the rest, mainly
@@ -180,6 +189,7 @@ To sum up:
 - Highlighting of important terms to easily synthesize arguments of the text
 - Statistics to back up claims
 - Great discussion of socioeconomic implications regarding mental health in Washington DC
+
 *Cons*
 - Images often have poor quality
 - Map visualizations having few cartographic elements makes them confusing
@@ -206,6 +216,6 @@ health seriously and what steps to take in taking care of their loved ones.
 
 ## Works Cited
 
-Shapiro, J. (2017). 3 Ways Data Dashboards Can Mislead You. Retrieved from https://hbr.org/2017/01/3-ways-data-dashboards-can-mislead-you#comment-section
+Shapiro, J. (2017). 3 Ways Data Dashboards Can Mislead You. Retrieved from https://hbr.org/2017/01/3-ways-data-dashboards-can-mislead-you
 
 Mattern, S. (2017). A City Is Not a Computer. Retrieved from https://placesjournal.org/article/a-city-is-not-a-computer/?cn-reloaded=1#0 
